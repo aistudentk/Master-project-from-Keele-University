@@ -1,0 +1,26 @@
+[
+    {
+        "model": "resnet18",
+        "weight": "Imagenet_pretrained",
+        "cam_method": "gradcam",
+        "seed": 3407,
+        "num_points": 10,
+        "weight_exponent": 1,
+        "F1": 0.3453290663042808,
+        "Precision": 0.31080978331462733,
+        "Recall": 0.4541031038280565,
+        "IoU": 0.26913298548313935
+    },
+    {
+        "model": "resnet18",
+        "weight": "Imagenet_pretrained",
+        "cam_method": "gradcam",
+        "seed": 3407,
+        "num_points": 10,
+        "weight_exponent": 1,
+        "F1": 0.3453290663042808,
+        "Precision": 0.31080978331462733,
+        "Recall": 0.4541031038280565,
+        "IoU": 0.26913298548313935
+    }
+]
